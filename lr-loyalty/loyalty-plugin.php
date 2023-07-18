@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Loyalty Plugin
-Plugin URI: http://www.example.com
+Plugin URI: http://www.lucarulvoni.it/plugins/loyalty.php
 Description: Un plugin di raccolta punti e programmi fedeltà per premiare i clienti.
 Version: 1.0
-Author: Tuo Nome
-Author URI: http://www.example.com
+Author: Luca Rulvoni
+Author URI: http://www.lucarulvoni.it
 License: GPLv2 or later
 Text Domain: loyalty-plugin
 */
